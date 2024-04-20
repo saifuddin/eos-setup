@@ -12,9 +12,6 @@ sudo apt install firefox -y
 # Install Git
 sudo apt install git -y
 
-# Remove Photos
-sudo apt remove io.elementary.photos -y
-
 # Remove Code (assuming you mean the Code editor)
 sudo apt remove io.elementary.code -y
 
@@ -23,9 +20,6 @@ sudo apt remove io.elementary.camera -y
 
 # Remove Music
 sudo apt remove io.elementary.music -y
-
-# Remove Multitasking View
-sudo apt remove io.elementary.switchboard-plug-multitasking -y
 
 # Remove Shortcuts
 sudo apt remove io.elementary.shortcut-overlay -y
