@@ -21,9 +21,6 @@ sudo apt remove io.elementary.code -y
 # Remove Camera
 sudo apt remove io.elementary.camera -y
 
-# Remove Calendar
-sudo apt remove io.elementary.calendar -y
-
 # Remove Music
 sudo apt remove io.elementary.music -y
 
